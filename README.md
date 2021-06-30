@@ -1,5 +1,5 @@
 ## Icon Fix
-Desktop Context Menu Shortcut
+Desktop context menu entry for clearing the Icon Cache
 
 
 ## Details
